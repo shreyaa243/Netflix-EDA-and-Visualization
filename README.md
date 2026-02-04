@@ -9,5 +9,9 @@ Exploratory data analysis of Netflix dataset using Python and Tableau.
 - Seaborn
 - Tableau
 
+## Tableau Dashboard
+https://public.tableau.com/views/NETFLIXPROJECT_17437633713160/Netflix?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+
 ## Author
 Shreyaa Manojkumar Agravat
